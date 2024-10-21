@@ -19,3 +19,11 @@
 ![alt text](./04.snack-flex-app/snack-flex-app.JPG)
 
 - flex
+
+## 05. snack-flex-app-02
+![alt text](./05.snack-flex-app-02/snack-flex-app-02.JPG)
+
+- flex
+- flex-direction
+- justify-countent
+- align-items
