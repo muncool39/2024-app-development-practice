@@ -1,0 +1,28 @@
+{
+  "name": "zipcodefinder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "expo": "~52.0.11",
+    "expo-status-bar": "~2.0.0",
+    "immer": "^10.1.1",
+    "lodash": "^4.17.21",
+    "react": "18.3.1",
+    "react-native": "0.76.3",
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "resolutions": { 
+    "@expo/cli": "6.3.12"
+  },
+  "private": true
+}
